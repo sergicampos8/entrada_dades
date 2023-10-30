@@ -1,0 +1,6 @@
+{
+  "appTitle": "entrada_dades",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
